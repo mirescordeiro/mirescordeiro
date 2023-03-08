@@ -9,8 +9,3 @@ Profissionalmente me interesso por:
 - 🧩 Experiência do usuário; 
 - 👩‍🦽 Acessibilidade web;
 - ✅ Qualidade de software.
-
-Já no âmbito pessoal por:
-- 🌱 Veganismo,
--  🎶 Música,
--  🗣️ Línguas.
