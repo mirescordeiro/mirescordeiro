@@ -1,9 +1,4 @@
 Olá! Me chamo Tamires, mas prefiro ser chamada de Mires.
+Atuo a mais de 5 anos como desenvolvedora e busco criar interfaces intuitivas e acessíveis, utilizando boas práticas de desenvolvimento, qualidade de software, diretrizes de acessibilidade e documentação técnica.
 
-Atuo como desenvolvedora front-end e busco unir meus conhecimentos em:
-comunicação, design e tecnologia para codificar interfaces de maneira interdisciplinar. 
-
-Profissionalmente me interesso por:
-- 🎨 Desenvolvimento front-end; 
-- 👩‍🦽 Acessibilidade web;
-- ✅ Qualidade de software.
+Após 3 anos na área resolvi me especializar e hoje curso Análise e Desenvolvimento de Sistemas pela Fatec. Durante esse período tive a oportunidade de entrar em contato com diversas tecnologias de backend (Python, Java e Node) e tenho buscado ampliar minhas vivências com desenvolvimento de software fullstack.
